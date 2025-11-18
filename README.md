@@ -1,19 +1,19 @@
-# ☕ Coffee Dreams: Site Institucional de Cafeteria
+#  Coffee Dreams: Site Institucional de Cafeteria
 
-## 💻 Sobre o Projeto
+##  Sobre o Projeto
 
 Este é o site estático completo de uma cafeteria, desenvolvido para apresentar o ambiente, o menu detalhado e as informações de contato de forma elegante e moderna.
 
 O projeto foi construído **exclusivamente com HTML e CSS**, demonstrando forte domínio na estruturação de conteúdo e na criação de layouts responsivos e visualmente atraentes, sem o uso de frameworks ou bibliotecas JavaScript.
 
-## ✨ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 | Tecnologia | Descrição |
 | :--- | :--- |
 | **HTML5** | Estrutura semântica do site, essencial para SEO e acessibilidade. |
 | **CSS3 (Puro)** | Responsável por **todo o design, layout e responsividade**. Utilizado para estilização do tema escuro, cards de menu e disposição dos elementos. |
 
-## 🎨 Destaques e Funcionalidades
+## Destaques e Funcionalidades
 
 O projeto foi dividido em seções claras e possui um design premium de tema escuro:
 
@@ -29,7 +29,7 @@ O projeto foi dividido em seções claras e possui um design premium de tema esc
 * **Tema Escuro (Dark Mode):** O contraste entre o preto e o dourado/marrom cria uma experiência visual sofisticada e aconchegante.
 * **Responsividade:** O layout é totalmente adaptável e funciona em desktops e dispositivos móveis (smartphones) através de Media Queries puras.
 
-## 🚀 Como Visualizar
+##  Como Visualizar
 
 O projeto é estático e pode ser visualizado diretamente no navegador:
 
